@@ -1,7 +1,7 @@
 # Sara Azevedo
 
 ## Olá pessoal 👋
-Sou apaixonado por tecnologia e programação.
+Sou apaixonada por tecnologia e programação.
 Sou um Front-end Developer :computer:
 
 
